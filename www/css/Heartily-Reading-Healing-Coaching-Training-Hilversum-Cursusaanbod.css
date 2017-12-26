@@ -1,0 +1,396 @@
+body {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ddaaa4+1,fff7c1+63,894249+100&amp;0.62+1,0.84+18,0.67+100 */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background:
+		url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjElIiBzdG9wLWNvbG9yPSIjZGRhYWE0IiBzdG9wLW9wYWNpdHk9IjAuNjIiLz4KICAgIDxzdG9wIG9mZnNldD0iMTglIiBzdG9wLWNvbG9yPSIjZTZiZmFjIiBzdG9wLW9wYWNpdHk9IjAuODQiLz4KICAgIDxzdG9wIG9mZnNldD0iNjMlIiBzdG9wLWNvbG9yPSIjZmZmN2MxIiBzdG9wLW9wYWNpdHk9IjAuNzUiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzg5NDI0OSIgc3RvcC1vcGFjaXR5PSIwLjY3Ii8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+	background: -moz-linear-gradient(45deg, rgba(221, 170, 164, 0.62) 1%,
+		rgba(230, 191, 172, 0.84) 18%, rgba(255, 247, 193, 0.75) 63%,
+		rgba(137, 66, 73, 0.67) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left bottom, right top, color-stop(1%, rgba(221
+		, 170, 164, 0.62)), color-stop(18%, rgba(230, 191, 172, 0.84)),
+		color-stop(63%, rgba(255, 247, 193, 0.75)),
+		color-stop(100%, rgba(137, 66, 73, 0.67))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(45deg, rgba(221, 170, 164, 0.62) 1%,
+		rgba(230, 191, 172, 0.84) 18%, rgba(255, 247, 193, 0.75) 63%,
+		rgba(137, 66, 73, 0.67) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(45deg, rgba(221, 170, 164, 0.62) 1%,
+		rgba(230, 191, 172, 0.84) 18%, rgba(255, 247, 193, 0.75) 63%,
+		rgba(137, 66, 73, 0.67) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(45deg, rgba(221, 170, 164, 0.62) 1%,
+		rgba(230, 191, 172, 0.84) 18%, rgba(255, 247, 193, 0.75) 63%,
+		rgba(137, 66, 73, 0.67) 100%); /* IE10+ */
+	background: linear-gradient(45deg, rgba(221, 170, 164, 0.62) 1%,
+		rgba(230, 191, 172, 0.84) 18%, rgba(255, 247, 193, 0.75) 63%,
+		rgba(137, 66, 73, 0.67) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9eddaaa4',
+		endColorstr='#ab894249', GradientType=1);
+	/* IE6-8 fallback on horizontal gradient */
+	font-family: 'Imprima', sans-serif;
+	color: #12051C;
+}
+
+/*STANDAARD ELEMENT De bovenbanner met logo en links*/
+.heartily-logo {
+	padding-left: 2em;
+	padding-bottom: -1em;
+}
+
+.logo-subtitle {
+	line-height: 6%;
+}
+
+.glow {
+	color: #12051C;
+	text-shadow: 0 0 30px rgb(193, 150, 226) rgba(193, 150, 226, 0.63);
+}
+
+.glow:hover {
+	color: #31124F;
+	text-shadow: 0 0 60px #DDBBF9, 0 0 70px #DDBBF9;
+}
+
+.button {
+	/*margin-top: 2em;*/
+	padding-top: 4em;
+}
+
+.kleur {
+	min-height: 3em;
+}
+
+.kleur-2 {
+	background-color: rgb(70, 7, 7);
+	background-color: rgba(70, 7, 7, 0.88);
+}
+
+.kleur-3 {
+	background-color: rgb(150, 0, 0);
+	background-color: rgba(150, 0, 0, 0.88);
+}
+
+.kleur-4 {
+	background-color: rgb(202, 11, 29);
+}
+
+.kleur-5 {
+	background-color: rgb(224, 35, 5);
+	background-color: rgba(224, 35, 5, 0.81);
+}
+
+.kleur-6 {
+	background-color: rgb(181, 27, 98);
+}
+
+.kleur-7 {
+	background-color: rgb(144, 0, 60);
+}
+
+.kleur-8 {
+	background-color: rgb(158, 5, 27);
+}
+
+.kleur-9 {
+	background-color: rgb(90, 15, 88);
+}
+
+.regenboog-onder {
+	margin-top: 15em;
+	margin-bottom: 0;
+}
+
+.center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.zonnetje-in-huis {
+	margin-top: 3em;
+}
+
+.line-zonnetje {
+	border-color: #12051C;
+	border-style: double none;
+	border-width: 1px 0;
+}
+/*EINDE STANDAARD ELEMENT BOVENBALK EN ONDERBALK REGENBOOG*/
+.main-item-title {
+	margin-top: 4em;
+}
+
+.groot {
+	font-size: 700%;
+}
+
+.main-text-title {
+	margin-top: 2em;
+	/*margin-right: 2em;
+margin-left: 2em;*/
+}
+
+.main-text {
+	padding-right: 6em;
+	padding-left: 6em;
+}
+
+.theme-pic {
+	margin-top: 4.8em;
+}
+
+.cursus-aanbod {
+	margin-top: 4em;
+}
+
+.aanbodtitel {
+	font-size: 500%;
+	margin-bottom: 1em;
+}
+
+.cursus-overzicht {
+	margin-top: 3em;
+	margin-left: 2em;
+}
+
+.line-cursusaanbod {
+	border-color: black;
+	border-style: dashed none;
+	border-width: 1px 0;
+	margin-left: 3em;
+}
+
+.cursus {
+	margin-top: 4em;
+	margin-bottom: 2em;
+	margin-left: 4em;
+}
+
+.course-pic {
+	outline: solid 1px;
+}
+
+.cursus-intro {
+	margin-top: 0;
+}
+
+.agenda {
+	background-color:
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e8744a+0,7a3b63+99&amp;0.67+0,0.84+82,0.62+99 */
+		/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+		background : 
+		url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNlODc0NGEiIHN0b3Atb3BhY2l0eT0iMC42NyIvPgogICAgPHN0b3Agb2Zmc2V0PSI4MiUiIHN0b3AtY29sb3I9IiM4ZDQ1NWYiIHN0b3Atb3BhY2l0eT0iMC44NCIvPgogICAgPHN0b3Agb2Zmc2V0PSI5OSUiIHN0b3AtY29sb3I9IiM3YTNiNjMiIHN0b3Atb3BhY2l0eT0iMC42MiIvPgogIDwvcmFkaWFsR3JhZGllbnQ+CiAgPHJlY3QgeD0iLTUwIiB5PSItNTAiIHdpZHRoPSIxMDEiIGhlaWdodD0iMTAxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+	background: -moz-radial-gradient(center, ellipse cover, rgba(232, 116, 74, 0.67)
+		0%, rgba(141, 69, 95, 0.84) 82%, rgba(122, 59, 99, 0.62) 99%);
+	/* FF3.6+ */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%,
+		color-stop(0%, rgba(232, 116, 74, 0.67)),
+		color-stop(82%, rgba(141, 69, 95, 0.84)),
+		color-stop(99%, rgba(122, 59, 99, 0.62))); /* Chrome,Safari4+ */
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(232, 116, 74, 0.67)
+		0%, rgba(141, 69, 95, 0.84) 82%, rgba(122, 59, 99, 0.62) 99%);
+	/* Chrome10+,Safari5.1+ */
+	background: -o-radial-gradient(center, ellipse cover, rgba(232, 116, 74, 0.67)
+		0%, rgba(141, 69, 95, 0.84) 82%, rgba(122, 59, 99, 0.62) 99%);
+	/* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover, rgba(232, 116, 74, 0.67)
+		0%, rgba(141, 69, 95, 0.84) 82%, rgba(122, 59, 99, 0.62) 99%);
+	/* IE10+ */
+	background: radial-gradient(ellipse at center, rgba(232, 116, 74, 0.67)
+		0%, rgba(141, 69, 95, 0.84) 82%, rgba(122, 59, 99, 0.62) 99%);
+	/* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#abe8744a',
+		endColorstr='#9e7a3b63', GradientType=1);
+	/* IE6-8 fallback on horizontal gradient */
+	margin-left: 50%;
+	margin-top: 3em;
+	padding: 3em;
+	outline: solid 12px rgb(99, 83, 107);
+	outline: solid 12px rgba(99, 83, 107, 0.75);
+}
+
+.vertical-text {
+	transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+.uitspraak {
+	font-size: 200%;
+	margin-top: 3em;
+}
+
+@media ( max-width : 768px) {
+	.kleinbeeld {
+		font-size: 18px;
+		color: #12051C;
+	}
+	.heartily-logo {
+		padding-left: 0;
+	}
+	.logo-subtitle {
+		font-size: 6px;
+	}
+	.button {
+		font-size: 4px;
+	}
+	.groot {
+		font-size: 200%;
+	}
+	.main-text {
+		padding-right: 1em;
+		padding-left: 1em;
+	}
+	.aanbodtitel {
+		font-size: 300%;
+	}
+	.kleur {
+		min-height: 1em;
+	}
+	.cursus {
+		margin-left: 0.4em;
+		margin-right: 0.4em;
+	}
+	.agenda {
+		margin-left: 0;
+	}
+	.regenboog-onder {
+		margin-top: 8em;
+	}
+	.footer {
+		font-size: 6px;
+	}
+}
+
+@media ( max-width : 768px) and (orientation: landscape) {
+	.main-item-title {
+		margin-top: 8em;
+		margin-bottom: 4em;
+		padding-left: 10em;
+		padding-right: 10em;
+	}
+	.groot {
+		font-size: 00%;
+	}
+	.logo-subtitle {
+		font-size: 10px;
+	}
+	.button {
+		font-size: 8px;
+	}
+	.main-text {
+		padding-right: 10em;
+		padding-left: 10em;
+	}
+	.uitspraak {
+		font-size: 300%;
+		margin-top: 3em;
+	}
+}
+
+@media ( min-width : 992px) {
+	.main-item-title {
+		margin-top: 2em;
+		margin-left: em;
+		margin-bottom: 0.4em;
+	}
+	.groot {
+		font-size: 450%;
+	}
+	.main-text-title {
+		margin-top: 2em;
+		padding-left: 2em;
+	}
+	.main-item {
+		margin-left: 3em;
+	}
+	.main-text {
+		padding-left: 0;
+		padding-right: 3em;
+		padding-top: 4em;
+	}
+	.theme-pic {
+		padding-left: 0;
+		margin-left: 0;
+	}
+	.agenda {
+		margin-left: 8em;
+		margin-top: 15em;
+	}
+}
+
+@media ( min-width : 1200px) {
+	.agenda {
+		margin-left: 13em;
+		margin-top: 16em;
+	}
+}
+/*STANDRDELEMENT FOOTER*/
+.footer {
+	background-color: rgb(8, 0, 3);
+	color: rgb(255, 255, 255);
+	color: rgba(255, 255, 255, 0.78);
+	border: 1em solid rgb(8, 0, 3);
+}
+
+.social-media {
+	margin-top: 2em;
+}
+
+.metliefde {
+	margin-top: 10em;
+}
+
+.hartelijk {
+	margin-top: 1em;
+	padding-left: 4%;
+}
+
+.hartje {
+	margin-left: -1.3%;
+	margin-right: -6.3%;
+}
+
+svg {
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+
+.heart {
+	animation: 3s heartbeat infinite alternate;
+	transform-origin: 50% 50%;
+}
+
+@
+keyframes heartbeat {from { transform:scale(1);
+	
+}
+
+to {
+	transform: scale(0.8);
+}
+
+}
+.copyright {
+	margin-top: 2em;
+	margin-bottom: 8em;
+}
+
+@media ( max-width : 768px) and (orientation:landscape) {
+	.button {
+		font-size: 8px;
+	}
+	.groot {
+		font-size: 4em;
+	}
+	.vertical-text {
+		transform: rotate(0deg);
+	}
+	.logo-subtitle {
+		font-size: 8px;
+	}
+	.footer {
+		font-size: 8px;
+	}
+}

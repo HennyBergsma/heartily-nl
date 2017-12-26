@@ -1,0 +1,309 @@
+body { 
+	font-family: 'Imprima', sans-serif;
+	background-color:rgb(62, 3, 5);
+	color: rgb(31, 4, 4);
+	background-image: url("../img/rozen.png");
+	/*background-repeat: no-repeat;*/
+	background-attachment:fixed;
+	background-position: 100% 100%;
+	background-size: 100%;
+	display: block;
+}
+.heartily-logo{
+	padding-left: 2em;
+	padding-bottom: -1em;
+}
+.logo-subtitle{
+	line-height: 6%;
+}
+.glow {
+	color: /*rgb(58, 56, 61);
+	color: rgba(58, 56, 61, 0.96)*/inherit;
+	text-shadow: 0 0 30px rgb(193,150,226) rgba(193,150,226,0.63);
+}
+.glow:hover {
+	color: inherit;/*rgb(58, 56, 61);
+	color: rgba(58, 56, 61, 0.96)*/;
+	text-shadow: 0 0 60px #DDBBF9, 0 0 70px #DDBBF9;
+}
+.button {
+padding-top: 4em;
+}
+/*EIND MENUBALK*/
+/*BEGIN REGENBOOG*/
+.kleur{
+	min-height: 1.5em;
+	}
+.kleur-2{
+   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a50861+14,a50861+14,7f0305+34,d30b04+81,b50903+100 */
+background: rgb(165,8,97); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjE0JSIgc3RvcC1jb2xvcj0iI2E1MDg2MSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjE0JSIgc3RvcC1jb2xvcj0iI2E1MDg2MSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjM0JSIgc3RvcC1jb2xvcj0iIzdmMDMwNSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjgxJSIgc3RvcC1jb2xvcj0iI2QzMGIwNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNiNTA5MDMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(45deg,  rgba(165,8,97,1) 14%, rgba(165,8,97,1) 14%, rgba(127,3,5,1) 34%, rgba(211,11,4,1) 81%, rgba(181,9,3,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  rgba(165,8,97,1) 14%,rgba(165,8,97,1) 14%,rgba(127,3,5,1) 34%,rgba(211,11,4,1) 81%,rgba(181,9,3,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  rgba(165,8,97,1) 14%,rgba(165,8,97,1) 14%,rgba(127,3,5,1) 34%,rgba(211,11,4,1) 81%,rgba(181,9,3,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a50861', endColorstr='#b50903',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+}
+.kleur-3{
+	background-color: rgb(182, 210, 148);
+	background-color: rgba(182, 210, 148, 0.45);
+}
+.regenboog-onder{
+	margin-top: 6em;
+	margin-left: -1em;
+}
+/*EINDE REGENBOOG*/
+
+.intro{
+		padding-top: 4em;
+}
+.pad{
+	background-color: rgb(97, 49, 49);
+	background-color: rgba(97, 49, 49, 0.75);
+	border: 3px dotted rgba(218, 186, 186, 0.78);
+	margin-top: 11em;
+	}
+.pad-2{
+	background-color: rgb(97, 49, 49);
+	background-color: rgba(97, 49, 49, 0.75);
+	border: 3px dotted rgba(218, 186, 186, 0.78);
+	margin-top: 0.5em;
+	}
+.header{
+	background-color: rgb(97, 49, 49);
+	background-color: rgba(97, 49, 49, 0.75);
+	}
+.extra-rij{
+	padding-left: 0;
+	margin-left: 0;
+}
+.main-titel{
+	margin-top: 0.45em;
+	font-size: 2em;
+	color: rgba(31, 4, 4, 90);
+}
+/*.reading-roos {
+	margin-top:1px;
+}*/
+.roosreading{
+	margin-top: 1.4em;
+}
+.vertical-text-roos{
+	transform: rotate(90deg);
+	transform-origin: left top 1%;
+	margin-top: 1em;
+	padding-top: 0.8em;
+	font-size: 300%;
+}
+.roosreading-text{
+	padding-left: 7em;
+	padding-right: 8em;
+	margin-top: 3em;
+	text-align: justify;
+}
+.themareading{
+	margin-top: 3em;
+	margin-right: 0;
+}
+.themareading-text{
+	padding-left: 5em; 
+	padding-right: 8em;
+	text-align: justify;
+}
+.vertical-text-thema{
+	transform: rotate(90deg);
+	transform-origin: left top 1%;
+	margin-top: 1em;
+	padding-top: 0.8em;
+	font-size: 300%;
+}
+.themas{
+	padding-right: 8em;
+}
+
+@media (min-width: 678px) a (orientation: portrait){
+	body{
+		background-image: url("../img/rozenportrait.png");
+		background-size: 150%;
+	}
+	.main-titel{
+		font-size: 16em;
+		margin-top: 4em;
+		}
+	.intro{
+		margin-top: 6em;
+	}
+}
+ @media (min-width: 992px) {
+	body{
+		background-size: 200%;
+		}
+	.main-titel{
+		font-size: 20em;
+		margin-top: 4em;
+		}
+	.reading-roos{
+	margin-top: 4em;
+	}
+	.roosreading{
+	margin-right: -2em;
+	text-align: right;
+	}
+	.vertical-text-roos{
+	transform: rotate(90deg);
+	transform-origin: left top 10%;
+	margin-top: 0.1em;
+	padding-top: -1.5em;
+	padding-left: 0em;
+	font-size: 400%;
+	}
+	.roosreading-text{
+	padding-left: 1em;
+	padding-right: 2em;
+	margin-top: 1.3em;
+	text-align: left;
+	}
+	/*.themareading{
+	margin-right: -2%;
+	}*/
+	.themareading-text{
+	padding-left: 1em; 
+	padding-right: 1em;
+	padding-top: 2em;
+	text-align: right;
+}
+	.vertical-text-thema{
+	transform: rotate(90deg);
+	transform-origin: left top 1%;
+	margin-top: 0.1em;
+	padding-top: 0.5em;
+	font-size: 400%;
+	}
+	.themas{
+	margin-top: -5em;
+	padding-right: 2em;
+	padding-left: 4em;
+	}
+	.main-titel{
+	margin-top: 0.45em;
+	font-size: 20em;
+}
+}
+@media (min-width: 1200px){
+	body{
+	background-size: 100%;
+	}
+	.main-titel{
+		font-size: 20em;
+		}
+}
+/*STANDRDELEMENT FOOTER*/
+.footer {
+background-color: rgb(49, 0, 0);
+background-color: rgba(49, 0, 0, 0.8);
+color: rgb(255, 255, 255);
+color: rgba(255, 255, 255, 0.78);
+}
+
+.social-media {
+	margin-top: 2em;
+}
+.metliefde{
+	margin-top: 10em;
+}
+.hartelijk {
+	margin-top: 1em;
+	padding-left: 4%;
+}
+.hartje {
+	margin-left: -1.3%;
+	margin-right: -6.3%;
+}
+svg {
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+.heart {
+	animation: 3s heartbeat infinite alternate;
+	transform-origin: 50% 50%;
+}
+@keyframes heartbeat {
+	from {
+		transform: scale(1);
+	}
+	to {
+		transform: scale(0.8);
+	}
+}
+.copyright {
+	margin-top: 2em;
+	margin-bottom: 8em;
+}
+@media(max-width: 768px){
+	.kleinbeeld{
+		font-size: 18px;
+		color: rgb(31, 4, 4);
+	}
+	.heartily-logo{
+	padding-left: 0;
+}
+	.logo-subtitle{
+		font-size: 6px;
+	}
+	.button{
+		font-size: 4px;
+	}
+	.main-titel{
+		font-size: 8em;
+		margin-top: 4em;
+		margin-top: 1em;
+	}
+	.themas{
+		padding-right:0;
+	}
+	.metliefde{
+		margin-bottom: 1em;
+	}
+	.regenboog-onder{
+			margin-top: 8em;
+	}
+	.footer{
+		font-size: 6px;
+	}
+}
+@media (max-width: 767px) and (orientation: portrait){
+	body{
+		background-image: url("../img/rozenportrait.png");
+		background-size: 150%;
+	}
+	.main-titel{
+		font-size: 6em;
+		margin-top: 4em;
+		}
+	.intro{
+		margin-top: 6em;
+	}
+	.roosreading-text{
+		padding-right: 2em;
+		padding-left: 2em;
+	}
+	.themareading-text{
+		padding-right: 2em;
+		padding-left: 2em;
+	}
+}
+@media(max-width: 768px) and (orientation:landscape){
+	.button{
+		font-size: 8px;
+	}
+	.logo-subtitle{
+		font-size: 8px;
+	}
+	.footer{
+		font-size: 8px;
+	}
+}

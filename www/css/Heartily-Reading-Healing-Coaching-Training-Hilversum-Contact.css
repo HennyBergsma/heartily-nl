@@ -1,0 +1,99 @@
+ /*@import url(http://fonts.googleapis.com/css?family=Lora);*/
+
+body{
+	
+    font-family: 'Imprima', sans-serif;
+	background-image: url("../img/appelbloesem.png");
+	background-position: center center;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+    display: block;
+	color: rgb(224, 213, 213);
+	color: rgba(224, 213, 213, 0.94);
+}
+@media(max-width: 992px){
+	.body{
+		background-image: url("../img/appelbloesemklein.png");
+	}
+}
+.heartily{
+	margin-bottom: 0.01em;
+	margin-left: 2em;
+}
+.glow {
+	color:  rgb(224, 213, 213);
+	text-shadow: 0 0 40px rgba(224, 213, 213, 0.91);
+}
+.glow:hover {
+	color: rgb(167, 116, 158);
+	text-shadow: 0 0 60px rgba(247, 211, 197, 0.93), 0 0 70px rgba(247, 211, 197, 0.43);
+}
+.extraGlow {
+	color:rgb(245, 245, 239);
+	text-shadow: 0 0 30px rgba(236, 203, 190, 0.81), 0 0 70px rgba(236, 203, 190, 0.81)
+}
+.extraGlow:hover {
+	color: rgb(245, 245, 239);
+	text-shadow: 0 0 60px rgba(236, 203, 190, 0.81), 0 0 70px rgba(236, 203, 190, 0.81);
+}
+.button{
+	margin-top: 2em;
+}
+.kleur{
+	color: rgb(101, 3, 29);
+}
+.groot {
+	margin-top: 30%;
+	font-size: 7em;
+	font-weight: lighter;
+}
+.contact-aurareading{
+	background-color: rgba(110, 124, 129, 0.53);
+	margin-top: 20%; 
+}
+.contact-coaching{
+	margin-top: 2em;
+}
+.contactinfo{
+	margin-top: -0.3em;
+	margin-bottom: -0.5em;
+}
+.regenboog-onder{
+	margin-top: 37em;
+	margin-left: -1em;
+}
+@media(max-width: 768px){
+	.kleinbeeld{
+		font-size: 18px;
+	}
+	.heartily-logo{
+		padding-left: 0;
+	}
+	.heartily-logo{
+	padding-left: 0;
+	}
+	.logo-subtitle{
+		font-size: 6px;
+	}
+	.button{
+		font-size: 4px;
+	}
+	.metliefde{
+		margin-bottom: 1em;
+	}
+}
+@media(max-width: 768px) and (orientation:landscape){
+	.button{
+		font-size: 8px;
+	}
+	.groter{
+		font-size: 18em;
+	}
+	.logo-subtitle{
+		font-size: 8px;
+	}
+	.footer{
+		font-size: 8px;
+	}
+}

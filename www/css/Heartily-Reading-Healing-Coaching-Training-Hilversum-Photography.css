@@ -1,0 +1,191 @@
+/*@import url(http://fonts.googleapis.com/css?family=Lora);*/
+
+body{
+	background: rgb(2, 0, 4);
+	background: rgba(2, 0, 4, 0.94);
+	font-family:'Imprima', sans-serif;
+	color: rgb(235, 207, 241);
+}
+/*KEUZEMENU*/
+.heartily-logo{
+	padding-left: 2em;
+	padding-bottom: -1em;
+}
+.logo-subtitle{
+	line-height: 6%;
+}
+.glow {
+	color:inherit;
+	text-shadow: 0 0 30px rgb(193,150,226) rgba(193,150,226,0.63);
+}
+.glow:hover {
+	color:inherit;
+	text-shadow: 0 0 60px #DDBBF9, 0 0 70px #DDBBF9;
+}
+.button {
+padding-top: 4em;
+}
+/*STANDAARDREGENBOOG*/
+.kleur {
+	min-height: 2em;
+}
+.kleur-2 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b1b9ed+2,332f38+18,b79f9c+33,68615e+44,ba9e9a+53,a38788+63,d8d8b8+74,a38788+84,a38788+84,d8d8b8+92,a37a7b+100 */
+background: rgb(177,185,237); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIyJSIgc3RvcC1jb2xvcj0iI2IxYjllZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjE4JSIgc3RvcC1jb2xvcj0iIzMzMmYzOCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1jb2xvcj0iI2I3OWY5YyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjQ0JSIgc3RvcC1jb2xvcj0iIzY4NjE1ZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUzJSIgc3RvcC1jb2xvcj0iI2JhOWU5YSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjYzJSIgc3RvcC1jb2xvcj0iI2EzODc4OCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc0JSIgc3RvcC1jb2xvcj0iI2Q4ZDhiOCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijg0JSIgc3RvcC1jb2xvcj0iI2EzODc4OCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijg0JSIgc3RvcC1jb2xvcj0iI2EzODc4OCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjkyJSIgc3RvcC1jb2xvcj0iI2Q4ZDhiOCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNhMzdhN2IiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(left,  rgba(177,185,237,1) 2%, rgba(51,47,56,1) 18%, rgba(183,159,156,1) 33%, rgba(104,97,94,1) 44%, rgba(186,158,154,1) 53%, rgba(163,135,136,1) 63%, rgba(216,216,184,1) 74%, rgba(163,135,136,1) 84%, rgba(163,135,136,1) 84%, rgba(216,216,184,1) 92%, rgba(163,122,123,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(177,185,237,1) 2%,rgba(51,47,56,1) 18%,rgba(183,159,156,1) 33%,rgba(104,97,94,1) 44%,rgba(186,158,154,1) 53%,rgba(163,135,136,1) 63%,rgba(216,216,184,1) 74%,rgba(163,135,136,1) 84%,rgba(163,135,136,1) 84%,rgba(216,216,184,1) 92%,rgba(163,122,123,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(177,185,237,1) 2%,rgba(51,47,56,1) 18%,rgba(183,159,156,1) 33%,rgba(104,97,94,1) 44%,rgba(186,158,154,1) 53%,rgba(163,135,136,1) 63%,rgba(216,216,184,1) 74%,rgba(163,135,136,1) 84%,rgba(163,135,136,1) 84%,rgba(216,216,184,1) 92%,rgba(163,122,123,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b1b9ed', endColorstr='#a37a7b',GradientType=1 ); /* IE6-8 */
+}
+.regenboog-onder {
+	margin-top: 8em;
+}
+.zonnetje-in-huis {
+	margin-top: 0.2em;
+	margin-bottom: 5em;
+}
+.lijn-zon{
+	color:inherit;
+}
+/*MAATWERK*/
+.reuzen {
+	font-size: 20em;
+	color:rgb(255, 255, 255);
+	color:rgba(255, 255, 255, 0.52);
+}
+.groter {
+	font-size: 25em;
+	}
+@media (min-width: 768px) {
+	.groter {
+	font-size: 30em;
+	}
+}
+@media (min-width: 992px){
+.groter {
+	font-size: 34em;
+	}
+}
+@media (min-width: 1200px){
+.groter {
+	font-size: 37em;
+	}
+}
+.groot {
+	font-size: 20em;
+	font-weight: bold;
+}
+.streep-lager{
+	padding-top: 1.5em;
+}
+.bovenenonderlijn {
+	margin-top: 5em;
+}
+.titel{
+	margin-top: 3em;
+}
+.streep-rechts {
+margin-top: 6em;
+}
+.streep-rechts-ster{
+	margin-top: 8em;
+}
+.fotografie-2 {
+	margin-top: 7em;
+}
+.photography{
+	border: 1px solid black;
+}
+
+/*STANDAARD FOOTER*/
+.footer {
+	background: inherit;
+	background-color: rgba(6, 4, 8, 0.71);
+}
+.social-media {
+	margin-top: 2em;
+}
+.metliefde{
+	margin-top: 10em;
+}
+.hartelijk {
+	margin-top: 1em;
+	padding-left: 4%;
+}
+.hartje {
+	margin-left: -1.3%;
+	margin-right: -6.3%;
+}
+svg {
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+.heart {
+	animation: 3s heartbeat infinite alternate;
+	transform-origin: 50% 50%;
+}
+@keyframes heartbeat {
+	from {
+		transform: scale(1);
+	}
+	to {
+		transform: scale(0.8);
+	}
+}
+.copyright {
+	margin-top: 2em;
+	margin-bottom: 8em;
+}
+@media(max-width: 768px){
+	.kleinbeeld{
+		font-size: 18px;
+		/*color: #12051C;*/
+	}
+	.heartily-logo{
+		padding-left: 0;
+	}
+	.logo-subtitle{
+		font-size: 6px;
+	}
+	.button{
+		font-size: 4px;
+	}
+	.groter{
+		font-size: 12em;
+	}
+	.streep-rechts-ster{
+	margin-top: 2em;
+	}
+	.metliefde{
+		margin-bottom: 1em;
+	}
+	.regenboog-onder{
+			margin-top: 8em;
+	}
+	.footer{
+		font-size: 6px;
+	}
+}
+@media(max-width: 768px) and (orientation:landscape){
+	.button{
+		font-size: 8px;
+	}
+	.groter{
+		font-size: 18em;
+	}
+	.logo-subtitle{
+		font-size: 8px;
+	}
+	.streep-rechts-ster{
+	margin-top: 5em;
+	}
+	.footer{
+		font-size: 8px;
+	}
+}

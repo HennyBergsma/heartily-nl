@@ -1,0 +1,155 @@
+
+body {
+	background-color: rgb(21, 14, 23);
+	background: rgba(21, 14, 23, 0.92);
+	font-family: 'Imprima', sans-serif;
+	color: rgb(249, 208, 225);
+	color: rgba(249, 208, 225, 0.98);
+}
+/*KEUZEMENU*/
+.heartily-logo{
+	padding-left: 2em;
+	padding-bottom: -1em;
+}
+.logo-subtitle{
+	line-height: 6%;
+}
+.glow {
+	color:inherit;
+	text-shadow: 0 0 10px rgba(249, 208, 225, 0.57);
+}
+.glow:hover {
+	color: rgb(158, 124, 138);
+	color: rgba(158, 124, 138, 0.98);
+	text-shadow: 0 0 20px rgba(249, 208, 225, 0.47), 0 0 30px rgba(249, 208, 225, 0.37);
+}
+.button {
+padding-top: 4em;
+}
+/*STANDAARDREGENBOOG*/
+.kleur {
+	min-height: 3em;
+}
+.kleur{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2f1e38+14,e847d5+36,c10f12+51,c10f12+51,ff630f+97&amp;1+0,0.83+100 */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMmYxZTM4IiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iMTQlIiBzdG9wLWNvbG9yPSIjMmYxZTM4IiBzdG9wLW9wYWNpdHk9IjAuOTgiLz4KICAgIDxzdG9wIG9mZnNldD0iMzYlIiBzdG9wLWNvbG9yPSIjZTg0N2Q1IiBzdG9wLW9wYWNpdHk9IjAuOTQiLz4KICAgIDxzdG9wIG9mZnNldD0iNTElIiBzdG9wLWNvbG9yPSIjYzEwZjEyIiBzdG9wLW9wYWNpdHk9IjAuOTEiLz4KICAgIDxzdG9wIG9mZnNldD0iOTclIiBzdG9wLWNvbG9yPSIjZmY2MzBmIiBzdG9wLW9wYWNpdHk9IjAuODMiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmNjMwZiIgc3RvcC1vcGFjaXR5PSIwLjgzIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+background: -moz-linear-gradient(45deg,  rgba(47,30,56,1) 0%, rgba(47,30,56,0.98) 14%, rgba(232,71,213,0.94) 36%, rgba(193,15,18,0.91) 51%, rgba(255,99,15,0.83) 97%, rgba(255,99,15,0.83) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  rgba(47,30,56,1) 0%,rgba(47,30,56,0.98) 14%,rgba(232,71,213,0.94) 36%,rgba(193,15,18,0.91) 51%,rgba(255,99,15,0.83) 97%,rgba(255,99,15,0.83) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  rgba(47,30,56,1) 0%,rgba(47,30,56,0.98) 14%,rgba(232,71,213,0.94) 36%,rgba(193,15,18,0.91) 51%,rgba(255,99,15,0.83) 97%,rgba(255,99,15,0.83) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f1e38', endColorstr='#d4ff630f',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+}
+.regenboog-onder {
+	margin-top: 5em;
+}
+.zonnetje{
+	margin-top: 5em;
+}
+/*EVENTUEEL GROTER LETTERTYPE*/
+.groot {
+	margin-left: 1.4%;
+	font-size: 8em;
+	font-weight: lighter;
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.groot {
+		font-size: 7em;
+	}
+}
+/*MAATWERK*/
+.thin-solid-line{
+color: rgba(249, 208, 225, 0.48);
+}
+.main-titel{
+	margin-top: 0;
+}
+.main-pic{
+	border: 1px solid rgba(249, 208, 225, 0.48);
+}
+.more-sun{
+	margin-top: 4em;
+}
+/*STANDAARD FOOTER*/
+.footer {
+	background-color: rgb(22, 18, 37);
+	background-color: rgba(22, 18, 37, 0.31);
+}
+.social-media {
+	margin-top: 2em;
+}
+.metliefde{
+	margin-top: 10em;
+}
+.hartelijk {
+	margin-top: 1em;
+	padding-left: 4%;
+}
+.hartje {
+	margin-left: -1.3%;
+	margin-right: -6.3%;
+}
+svg {
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+.heart {
+	animation: 3s heartbeat infinite alternate;
+	transform-origin: 50% 50%;
+}
+@keyframes heartbeat {
+	from {
+		transform: scale(1);
+	}
+	to {
+		transform: scale(0.8);
+	}
+}
+.copyright {
+	margin-top: 2em;
+	margin-bottom: 8em;
+}
+@media(max-width: 768px){
+	.kleinbeeld{
+		font-size: 18px;
+		/*color: #12051C;*/
+	}
+	.logo-subtitle{
+		font-size: 6px;
+	}
+	.heartily-logo{
+	padding-left: 0;
+	}
+	.button{
+		font-size: 4px;
+	}
+	.groot{
+		font-size: 4em;
+	}
+		.metliefde{
+		margin-bottom: 1em;
+	}
+	.regenboog-onder{
+			margin-top: 8em;
+	}
+	.footer{
+		font-size: 6px;
+	}
+}
+@media(max-width: 768px) and (orientation:landscape){
+	.button{
+		font-size: 8px;
+	}
+	.groot{
+		font-size: 4em;
+	}
+	.logo-subtitle{
+		font-size: 8px;
+	}
+	.footer{
+		font-size: 8px;
+	}
+}
